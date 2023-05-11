@@ -221,22 +221,4 @@ python  app/app.py --func URL2VideoEditor  --cfg ${cfg_file}
 2、该项目仅用于交流学习，不得用于商业，以及其他会对社会带来危害的用途。
 
 
-## 交流与学习 
-欢迎通过[Discard](https://discord.gg/yWt59JUd) 或者微信与我们交流学习
-
-一群200人已满,
-
-
-二群200人已满，
-
-
-三群200人已满，
-
-
-四群200人已满，
-
-
-请加五群：
-
-![image](https://github.com/SCUTlihaoyu/open-chat-video-editor/assets/26428693/a06ec564-cdd4-4470-ada6-b59ff99a8f6a)
 
